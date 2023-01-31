@@ -1,0 +1,12 @@
+{
+  "name": "pragmatic-frontends-talk",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.39.0",
+    "@slidev/theme-default": "*"
+  }
+}
